@@ -1,10 +1,10 @@
 ### Olá! Eu sou Icaro Mayan 👋
 
-📚 - Estudante de Ciência da Computação (UFCA)
-💻 - Programo principalmente em C/C++/C#
-🤓 - Além disso, também programo em NodeJS, TypeScript, Python, Java e PHP
-😎 - Tenho facilidade em aprender novas linguagens
-⚡ - Amo tecnologia
+📚 - Estudante de Ciência da Computação (UFCA) </br>
+💻 - Programo principalmente em C/C++/C# </br>
+🤓 - Além disso, também programo em NodeJS, TypeScript, Python, Java e PHP </br>
+😎 - Tenho facilidade em aprender novas linguagens </br>
+⚡ - Amo tecnologia </br>
 
 <div align="center">
   <a href="https://github.com/IMayanLP">

@@ -1,8 +1,8 @@
 ### Olá! Eu sou Icaro Mayan 👋
 
 📚 - Estudante de Ciência da Computação (UFCA) </br>
-💻 - Programo principalmente em C/C++/C# </br>
-🤓 - Além disso, também programo em NodeJS, TypeScript, Python, Java e PHP </br>
+🎯 - Dev Front-end </br>
+🤓 - Além disso, também programo em NodeJS, TypeScript, Python, C/C++/C#, Java e PHP </br>
 😎 - Tenho facilidade em aprender novas linguagens </br>
 ⚡ - Amo tecnologia </br>
 
